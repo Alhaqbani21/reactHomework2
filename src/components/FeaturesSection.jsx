@@ -2,7 +2,7 @@ import React from 'react';
 
 function FeaturesSection() {
   return (
-    <div className="bg-[#F5F5F5] flex justify-evenly items-center my-10 gap-10 max-md:flex-col mx-2">
+    <div className="bg-[#F5F5F5] flex justify-evenly items-center my-10 gap-10 max-md:flex-col mx-2 py-16">
       <div className="flex flex-col justify-center items-center w-72 text-center gap-5 ">
         <img
           src="https://d9hhrg4mnvzow.cloudfront.net/templates.unbounce.com/freshgoods/6765ae81-freshgoods-feature1_10go0b20go09e00000001o.jpg"
